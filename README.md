@@ -2,9 +2,9 @@
 ## An NLP-Based Analysis of Nice Class 3 and Nice Class 5
 
 ## Project Overview
-This repository contains the code and documentation for a data science project investigating **semantic ambiguity in trademark goods descriptions**, focusing on the boundary between **Nice Class 3** (cosmetics and cleaning preparations) and **Nice Class 5** (pharmaceutical and medical products).
+This repository contains the code and documentation for a data science project investigating semantic ambiguity in trademark goods descriptions, focusing on the boundary between Nice Class 3 (cosmetics and cleaning preparations) and Nice Class 5 (pharmaceutical and medical products).
 
-Although these two classes are legally distinct, they frequently overlap in terminology, creating uncertainty for trademark applicants and examiners. This project explores whether **modern Natural Language Processing (NLP)** techniques can help distinguish clear cases from genuinely ambiguous ones.
+Although these two classes are legally distinct, they frequently overlap in terminology, creating uncertainty for trademark applicants and examiners. This project explores whether modern Natural Language Processing (NLP) techniques can help distinguish clear cases from genuinely ambiguous ones.
 
 ---
 
@@ -16,9 +16,9 @@ Although these two classes are legally distinct, they frequently overlap in term
 ---
 
 ## Data
-- **Source:** European Union Intellectual Property Office (EUIPO) trademark applications  
-- **Scope:** Applications containing Nice Class 3, Class 5, or both  
-- **Unit of analysis:** Trademark application (goods descriptions aggregated per application)
+- Source: European Union Intellectual Property Office (EUIPO) trademark applications  
+- Scope: Applications containing Nice Class 3, Class 5, or both  
+- Unit of analysis: Trademark application (goods descriptions aggregated per application)
 
 ### Labels
 - `3_only` – applications containing only Class 3 goods  
