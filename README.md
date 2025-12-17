@@ -25,8 +25,6 @@ Although these two classes are legally distinct, they frequently overlap in term
 - `5_only` – applications containing only Class 5 goods  
 - `both` – applications containing goods from both classes  
 
-⚠️ **Note:** The full EUIPO dataset cannot be shared publicly.  
-This repository includes **anonymised samples** and/or **data reconstruction scripts** to support reproducibility.
 
 ---
 
@@ -42,4 +40,4 @@ The analytical pipeline includes:
 
 ---
 
-## Repository Structure
+
